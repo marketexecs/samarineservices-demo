@@ -1,1 +1,1 @@
-# samarineservices-demo.
+# samarineservices-demo
