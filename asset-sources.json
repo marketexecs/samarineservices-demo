@@ -1,0 +1,62 @@
+[
+  {
+    "file": "assets/logo.png",
+    "source": "https://img1.wsimg.com/isteam/ip/bf598638-70c7-4ca1-942c-eaefbb4bbe5c/SA%20MARINE%20LOGO%20Gradient%20Teal%20(1).png/:/rs=h:200,cg:true,m/qt=q:95",
+    "bytes": 14022,
+    "sha256": "25e5bab84b5e646a6214de12456f6e10fac8ce30c8d57819598d16f057ba400e"
+  },
+  {
+    "file": "assets/photo-1.jpg",
+    "source": "https://img1.wsimg.com/isteam/ip/bf598638-70c7-4ca1-942c-eaefbb4bbe5c/1748022518051_4.jpg/:/rs=w:1920,m",
+    "bytes": 194536,
+    "sha256": "6ce0c54fad981308349feef920cc91af7daf76b1d1de384d356f56ef37195199"
+  },
+  {
+    "file": "assets/photo-2.webp",
+    "source": "https://img1.wsimg.com/isteam/ip/bf598638-70c7-4ca1-942c-eaefbb4bbe5c/elevator%20boat%20lift%20service%20call%20sa%20marine%20web.webp/:/rs=w:1000,m",
+    "bytes": 166639,
+    "sha256": "cf52d6dc4a5c14e42085fb7dfaf13687d66efff30461b13d71ee7155481ccd99"
+  },
+  {
+    "file": "assets/photo-3.jpg",
+    "source": "https://img1.wsimg.com/isteam/ip/bf598638-70c7-4ca1-942c-eaefbb4bbe5c/a1%20(1).jpg/:/rs=w:1000,m",
+    "bytes": 161345,
+    "sha256": "9e384c8bb355f1945fa14fd547be3f145c685c05d5fdf0ff06561d1e846bfec9"
+  },
+  {
+    "file": "assets/photo-4.jpg",
+    "source": "https://img1.wsimg.com/isteam/ip/bf598638-70c7-4ca1-942c-eaefbb4bbe5c/a2%20(1).jpg/:/rs=w:700,m",
+    "bytes": 81491,
+    "sha256": "51b259580649758919fdef2ba8e84af8650bb3b86f8690e8335e9d9d6538d9a5"
+  },
+  {
+    "file": "assets/photo-5.jpg",
+    "source": "https://img1.wsimg.com/isteam/ip/bf598638-70c7-4ca1-942c-eaefbb4bbe5c/a3%20(1).jpg/:/rs=w:700,m",
+    "bytes": 142837,
+    "sha256": "e1eddb59235f41be8e06af988820ee697e2df9537a746ca379ffc8648f50ecc2"
+  },
+  {
+    "file": "assets/photo-6.jpg",
+    "source": "https://img1.wsimg.com/isteam/ip/bf598638-70c7-4ca1-942c-eaefbb4bbe5c/a4%20(1).jpg/:/rs=w:1000,m",
+    "bytes": 94013,
+    "sha256": "bac9086d17c207406cc9339d004d04cc6ed29ec020320205097064a054c827d1"
+  },
+  {
+    "file": "assets/photo-7.jpg",
+    "source": "https://img1.wsimg.com/isteam/ip/bf598638-70c7-4ca1-942c-eaefbb4bbe5c/IMG_3015.jpeg/:/rs=w:1000,m",
+    "bytes": 151723,
+    "sha256": "b00c5562f2a4f1d26424ae87cd875ba26ba4ab74c2de4194a6ee9fa2617ef07c"
+  },
+  {
+    "file": "assets/photo-8.jpg",
+    "source": "https://img1.wsimg.com/isteam/ip/bf598638-70c7-4ca1-942c-eaefbb4bbe5c/IMG_2964.jpeg/:/rs=w:1000,m",
+    "bytes": 237681,
+    "sha256": "12dd232808957a47fe3c2171c9dc36834395c3c55577c1744cd7a3b6c4d1b1eb"
+  },
+  {
+    "file": "assets/photo-9.jpg",
+    "source": "https://img1.wsimg.com/isteam/ip/bf598638-70c7-4ca1-942c-eaefbb4bbe5c/1748022518059_5.jpg/:/rs=w:1000,m",
+    "bytes": 131232,
+    "sha256": "ff2a7b0ea6920114c2054ae8e19592a3e9046049e5d241bf4cd26317cd688cf7"
+  }
+]
